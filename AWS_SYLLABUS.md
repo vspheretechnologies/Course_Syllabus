@@ -1,6 +1,7 @@
 
 | Day | Topic                                   | Lab Exercise                                               | Notes / Project Component                   |
 |-----|-----------------------------------------|------------------------------------------------------------|---------------------------------------------|
+| 0   | introduction to Cloud Computing         | Theory                                                    |     |
 | 1   | AWS Fundamentals, IAM basics             | Create IAM users, groups, roles, apply policies            | Start Project: Multi-tier web app Setup     |
 | 2   | EC2 Basics & Instance types              | Launch EC2 instance (t2.micro), connect via SSH            | Deploy web server on EC2                     |
 | 3   | EC2 Storage (EBS, snapshots)             | Create EBS volumes, attach/detach, create snapshots        | Configure persistent storage                 |
