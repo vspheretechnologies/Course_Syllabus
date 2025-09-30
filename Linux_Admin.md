@@ -1,4 +1,4 @@
----
+
 
 ### 🧠 Red Hat Linux Administration & Server Management Syllabus
 
@@ -25,5 +25,5 @@
 | **19** | Backup & Recovery | Backup strategies, tools, disaster recovery | Use `tar`, `rsync`, configure automated backups |
 | **20** | Final Capstone Project | Design and deploy a multi-service Linux server | Students architect and deploy a full-stack server with web, DB, and security layers |
 
----
+
 
