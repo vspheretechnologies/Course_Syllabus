@@ -1,0 +1,30 @@
+| **Day** | **Topics**                           | **Content to Cover**                                                                                        | **Hours**                         | **Attachments**                       |
+|---------|--------------------------------------|-------------------------------------------------------------------------------------------------------------|-----------------------------------|---------------------------------------|
+| **Day 1** | Introduction to GitLab and CI/CD    | Overview of GitLab, CI/CD concepts, and benefits of using GitLab for DevOps pipelines.                      | 2 hours (Theory + Hands-on)      | [lab01](https://github.com/nani05190682/GITLAB/blob/main/LAB/01-GITLAB_Intro.md) |
+| **Day 2** | GitLab Repositories & Version Control | Git and GitLab repositories, basic Git commands.                                                             | 2 hours (Hands-on)               | Git commands cheat sheet              |
+| **Day 3** | Introduction to GitLab CI/CD Pipelines | Structure of `.gitlab-ci.yml` file, jobs, stages, runners.                                                   | 2 hours (Theory + Hands-on)      | Example `.gitlab-ci.yml` file         |
+| **Day 4** | GitLab CI/CD Pipeline Configuration | Defining stages, jobs, and syntax: `script`, `before_script`, `after_script`.                                 | 2 hours (Hands-on)               | Sample `.gitlab-ci.yml` with stages   |
+| **Day 5** | GitLab Runners Overview             | GitLab Runner types (Shared, Specific), installation, and configuration.                                      | 2 hours (Hands-on)               | GitLab Runner installation guide      |
+| **Day 6** | GitLab CI/CD Jobs and Artifacts      | Using jobs with dependencies, artifacts, and cache to improve pipeline efficiency.                           | 2 hours (Hands-on)               | Artifacts and caching tutorial        |
+| **Day 7** | GitLab CI/CD Pipeline Triggers       | Manual vs. automatic triggers, pipeline schedules, external triggers.                                        | 2 hours (Hands-on)               | Tutorial on pipeline triggers         |
+| **Day 8** | GitLab CI/CD Variables and Secrets   | Predefined, custom environment variables, and using GitLab secrets.                                           | 2 hours (Hands-on)               | [lab08](https://github.com/nani05190682/syllabus/blob/main/GITLAB/day08-Variables.md)  |
+| **Day 9** | GitLab CI/CD Pipeline for Docker     | Building Docker images, pushing to Docker Hub/GitLab Container Registry, Docker-in-Docker.                   | 2 hours (Hands-on)               | Dockerfile example and CI/CD pipeline |
+| **Day 10** | GitLab CI/CD with Kubernetes         | Integrating GitLab with Kubernetes, deploying apps to Kubernetes using CI/CD.                                 | 2 hours (Hands-on)               | [lab01](https://github.com/nani05190682/syllabus/blob/main/GITLAB/Day10-Integrating_kubernetes.md) |
+| **Day 11** | Parallel Jobs and Matrix Builds      | Running jobs in parallel, matrix builds for testing across multiple environments.                             | 2 hours (Hands-on)               | Example matrix build setup            |
+| **Day 12** | GitLab CI/CD for Testing and Linting | Automating tests, linting, and static code analysis with GitLab CI/CD.                                        | 2 hours (Hands-on)               |     |
+| **Day 13** | Review and Practice                 | Review Week 1 and Week 2 topics, hands-on pipeline practice.                                                 | 2 hours (Practice)               | Full pipeline practice exercises      |
+| **Day 14** | Continuous Deployment with GitLab    | Setting up CD pipelines, Blue/Green and Canary deployment strategies.                                        | 2 hours (Hands-on)               | [lab01](https://github.com/nani05190682/syllabus/blob/main/GITLAB/Day14-BlueGreen_and_Canary.md)  |
+| **Day 15** | Advanced GitLab CI/CD Optimization   | Optimizing pipelines with caching, parallel jobs, and efficient job dependencies.                             | 2 hours (Hands-on)               | Pipeline optimization tips            |
+| **Day 16** | GitLab CI/CD for Infrastructure as Code | Using GitLab CI/CD for provisioning infrastructure (e.g., Terraform).                                         | 2 hours (Hands-on)               | Infrastructure automation example     |
+| **Day 17** | GitLab CI/CD for Microservices       | Managing multiple services in CI/CD, deployment strategies for microservices.                                | 2 hours (Hands-on)               | Multi-service pipeline example        |
+| **Day 18** | GitLab CI/CD Security Best Practices | Securing secrets, keys, credentials, and monitoring pipelines.                                               | 2 hours (Hands-on)               | Security best practices guide         |
+| **Day 19** | Monitoring and Debugging Pipelines   | Monitoring pipelines, debugging failed jobs, using logs and artifacts.                                       | 2 hours (Hands-on)               | Debugging pipeline tutorial           |
+| **Day 20** | Advanced GitLab CI/CD Features       | Auto DevOps, GitOps, and GitLab CI/CD best practices for large teams.                                         | 2 hours (Hands-on)               | Auto DevOps setup guide               |
+| **Day 21** | Final Project and Review            | Review key concepts and best practices, work on a final project implementing a complete pipeline.            | 2 hours (Hands-on + Review)      | Final project instructions            |
+
+---
+
+### **Notes**:
+- Each day includes both **theory** (conceptual explanation) and **hands-on practice** to reinforce the learning.
+- Attachments may include helpful guides, tutorials, and example files to support the training material.
+- Final Day (Day 21) will focus on implementing everything learned into a working pipeline project.
