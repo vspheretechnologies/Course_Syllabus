@@ -116,4 +116,33 @@
 | 59 | Deployment & CI/CD | Deploy backend to Render and frontend to Netlify |
 | 60 | Capstone Project Presentation | Finalize and present your full-stack project (eCommerce, Social Media, or Blog CMS) |
 
+
+
+---
+
+
+### ✅ What This Syllabus Covers Thoroughly
+
+| Area | Coverage |
+|------|----------|
+| **Frontend (React)** | JSX, components, props/state, hooks, routing, context, forms, custom hooks, error boundaries |
+| **Backend (Node + Express)** | Server setup, routing, middleware, RESTful APIs, error handling, environment config |
+| **Database (MongoDB + Mongoose)** | Schema design, CRUD, validation, relationships, indexing, performance tuning |
+| **Full-Stack Integration** | Axios, CORS, connecting React to Express, form submission, protected routes |
+| **Authentication & Security** | JWT, bcrypt, role-based access, file uploads, secure routing |
+| **State Management** | Context API, Redux (optional), custom hooks |
+| **Deployment & DevOps** | Git, GitHub, Netlify, Vercel, Render, MongoDB Atlas, CI/CD basics |
+| **Real-Time Projects** | Blog, contact manager, recipe app, eCommerce/social media capstone |
+
+---
+
+### 🧠 What You’ll Be Able to Do by the End
+
+- Build and deploy full-stack web applications from scratch  
+- Architect scalable APIs and connect them to dynamic frontends  
+- Implement secure authentication and authorization  
+- Manage state across complex React apps  
+- Deploy apps to production with CI/CD pipelines  
+- Collaborate using Git and GitHub like a pro  
+
 ---
